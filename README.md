@@ -1,3 +1,11 @@
+Microsoft Teams meeting
+
+Join: https://teams.microsoft.com/meet/259205588311202?p=ruYnnEPPTZMGp7NJ1v
+
+Meeting ID: 259 205 588 311 202
+
+Passcode: JC7Ti6rr
+
 # Order Processing Service
 
 .NET 8 Web API that manages orders with **MongoDB** persistence, **Redis** caching for read-heavy endpoints, **RabbitMQ** events when orders are created, and **Docker Compose** for one-command startup.
